@@ -6,8 +6,8 @@ This repository contains two implementations of a Question Answering (QA) Bot de
 
 1. Clone the repository:
    ```
-   git clone https://github.com/dasdristanta13/zania-ai-bot.git
-   cd zania-ai-bot
+   git clone https://github.com/dasdristanta13/RAG-ai-bot.git
+   cd RAG-ai-bot
    ```
 
 2. Create a virtual environment and activate it:
